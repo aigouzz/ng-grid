@@ -12,7 +12,7 @@ node_modules
 coverage
 
 #################
-## Eclipse
+# Eclipse
 #################
 
 *.pydevproject
